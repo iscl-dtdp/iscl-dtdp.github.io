@@ -1,0 +1,17 @@
+# Site settings
+title: Dependency Treebanks and Dependency Parsing
+subtitle: > # ignore newlines until "description:"
+    Course web page, Summer 2022
+    <a href="http://www.sfs.uni-tuebingen.de">SfS</a>,
+    <a href="http://uni-tuebingen.de/">University of Tübingen</a>
+description: > # ignore newlines until "baseurl:"
+    This is the course web page for Dependency Treebanks and Dependency Parsing
+    taught in the linguistic department (SfS), University of Tübingen.
+baseurl: ""
+url: "https://iscl-dtdp.github.io"
+github_username:  iscl-dtdp
+
+encoding: utf-8
+
+# Build settings
+markdown: kramdown

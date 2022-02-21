@@ -1,0 +1,117 @@
+- week: "01"
+  dates:
+    Apr 18: "no class"
+    Apr 20: "no class"
+    Apr 22: "no class"
+- week: "02"
+  dates:
+    Apr 25:
+      topic: TBA
+    Apr 27:
+      topic: TBA
+    Apr 29:
+      topic: TBA
+- week: "03"
+  dates:
+    May 02:
+      topic: TBA
+    May 04:
+      topic: TBA
+    May 06:
+      topic: TBA
+- week: "04"
+  dates:
+    May 09:
+      topic: TBA
+    May 11:
+      topic: TBA
+    May 13:
+      topic: TBA
+- week: "05"
+  dates:
+    May 16:
+      topic: TBA
+    May 18:
+      topic: TBA
+    May 20:
+      topic: TBA
+- week: "06"
+  dates:
+    May 23:
+      topic: TBA
+    May 25:
+      topic: TBA
+    May 27:
+      topic: TBA
+- week: "07"
+  dates:
+    May 30:
+      topic: TBA
+    Jun 01:
+      topic: TBA
+    Jun 03:
+      topic: TBA
+- week: ""
+  dates:
+    Jun 06:
+      topic: Semester break
+    Jun 08:
+      topic: Semester break
+    Jun 10:
+      topic: Semester break
+- week: "08"
+  dates:
+    Jun 13:
+      topic: TBA
+    Jun 15:
+      topic: TBA
+    Jun 17:
+      topic: TBA
+- week: "09"
+  dates:
+    Jun 20:
+      topic: TBA
+    Jun 22:
+      topic: TBA
+    Jun 24:
+      topic: TBA
+- week: "10"
+  dates:
+    Jun 27:
+      topic: TBA
+    Jun 29:
+      topic: TBA
+    Jul 01:
+      topic: TBA
+- week: "11"
+  dates:
+    Jul 04:
+      topic: TBA
+    Jul 06:
+      topic: TBA
+    Jul 08:
+      topic: TBA
+- week: "12"
+  dates:
+    Jul 11:
+      topic: TBA
+    Jul 13:
+      topic: TBA
+    Jul 15:
+      topic: TBA
+- week: "13"
+  dates:
+    Jul 18:
+      topic: TBA
+    Jul 20:
+      topic: TBA
+    Jul 22:
+      topic: TBA
+- week: "14"
+  dates:
+    Jul 25:
+      topic: TBA
+    Jul 27:
+      topic: TBA
+    Jul 29:
+      topic: TBA
