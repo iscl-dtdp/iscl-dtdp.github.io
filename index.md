@@ -45,5 +45,5 @@ computational linguistics.
 
 - Instructor: [Çağrı Çöltekin](http://coltekin.net/cagri/)
     <ccoltekin**@**sfs.uni-tuebingen.de>  
-    Office hours: Monday 10:00 - 11:00
-    (Wilhelmstr. 19, room 1.09)
+    Office hours: Tuesday 16:00 - 17:00
+    (Keplerstr. 2, room 152)
